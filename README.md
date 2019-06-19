@@ -4,8 +4,6 @@ All extensions in this repository have been compiled and created on [piCore 9.0.
 
 The source code of the programs was not modified in any way.
 
-### Licenses
-
 #### Vim
 - version [06e2c81](https://github.com/vim/vim/tree/06e2c81f6d213d197aa60019b33a263cd5176d68)
 - [homepage](https://www.vim.org/)
